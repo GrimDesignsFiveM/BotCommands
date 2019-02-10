@@ -23,7 +23,7 @@ SOFTWARE.
 
 */
 
-const { Command } = require('discord.js');
+const { Command } = require('klasa');
 
 module.exports = class extends Command {
 
