@@ -1,3 +1,4 @@
+const { Command, version: klasaVersion, Duration } = require('klasa');
 const { version: discordVersion, MessageEmbed } = require('discord.js')
 
 module.exports = class extends Command {
